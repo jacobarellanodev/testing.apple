@@ -3,7 +3,7 @@ br {
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(231, 231, 231);
 }
 
 .search {
@@ -42,8 +42,8 @@ input:focus{
   width: 180px;
   left: 20.2%;
   top: 10.5%;
-  border: 4px solid #ff0000;
-  background-color: #ffffff;
+  border: 2px solid #ff0000;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -63,7 +63,7 @@ input:focus{
 }
 
 .button-1-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
@@ -77,8 +77,8 @@ input:focus{
   width: 180px;
   left: 35%;
   top: 10.5%;
-  border: 4px solid #000aff;
-  background-color: #ffffff;
+  border: 2px solid #000aff;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -98,7 +98,7 @@ input:focus{
 }
 
 .button-2-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
@@ -112,8 +112,8 @@ input:focus{
   width: 180px;
   left: 20.2%;
   top: 70.5%;
-  border: 4px solid #38ac32;
-  background-color: #ffffff;
+  border: 2px solid #38ac32;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -133,7 +133,7 @@ input:focus{
 }
 
 .button-3-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 .button-3-icon p2 {
@@ -146,8 +146,8 @@ input:focus{
   width: 375px;
   left: 50%;
   top: 10.5%;
-  border: 4px solid #9e61b4;
-  background-color: #ffffff;
+  border: 2px solid #9e61b4;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -167,7 +167,7 @@ input:focus{
 }
 
 .button-4-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 .button-4-icon p2 {
@@ -181,8 +181,8 @@ input:focus{
   left: 35%;
   right: 40%;
   top: 40%;
-  border: 4px solid #ffed00;
-  background-color: #ffffff;
+  border: 2px solid #e2c926;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -195,14 +195,14 @@ input:focus{
 
 .button-5-icon:hover {
   text-shadow: 3px 3px 5px #4a4a4a;
-  background-color: #ffed00;
+  background-color: #e2c926;
   -webkit-transition: background-color 0.4s ease-in;
   -webkit-transition: text-shadow 0.4s ease-in-out;
   transition: 1s;
 }
 
 .button-5-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
@@ -217,8 +217,8 @@ input:focus{
   left: 35%;
   right: 40%;
   top: 70.5%;
-  border: 4px solid #ff9900;
-  background-color: #ffffff;
+  border: 2px solid #ff9900;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -239,7 +239,7 @@ input:focus{
 }
 
 .button-6-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
@@ -254,8 +254,8 @@ input:focus{
   left: 50%;
   right: 35%;
   top: 40%;
-  border: 4px solid #e4439a;
-  background-color: #ffffff;
+  border: 2px solid #e4439a;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -275,7 +275,7 @@ input:focus{
 }
 
 .button-7-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
@@ -290,8 +290,8 @@ input:focus{
   left: 65%;
   right: 40%;
   top: 40%;
-  border: 4px solid #009cff;
-  background-color: #ffffff;
+  border: 2px solid #009cff;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -311,7 +311,7 @@ input:focus{
 }
 
 .button-8-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
@@ -326,8 +326,8 @@ input:focus{
   left: 65%;
   right: 40%;
   top: 70.5%;
-  border: 4px solid #ed8374;
-  background-color: #ffffff;
+  border: 2px solid #ed8374;
+  background-color: #eeeeee;
   -webkit-transition: background-color 0.4s ease-out;
   transition: 1s;
   border-radius: 20px;
@@ -347,7 +347,7 @@ input:focus{
 }
 
 .button-9-icon p1 {
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 15px;
 }
 
